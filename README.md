@@ -53,9 +53,7 @@ Powered by empathy, perseverance, and a whole lot of cats.
 
 ## ⚙️ System Requirements
 
-- **ESP32-WROOM/WROVER** (for firmware)
-- **Android device** with API 26+ (for companion app)
-- **SD card** (for Wi‑Fi config where needed)
+Each iteration has their requirement.
 
 ---
 
