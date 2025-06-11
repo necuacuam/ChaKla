@@ -1,4 +1,4 @@
-package com.necuacuam.chaklali.ui.screens.config
+package com.necuacuam.chaklabe.ui.config
 
 import androidx.compose.foundation.layout.*
 import androidx.compose.material3.*

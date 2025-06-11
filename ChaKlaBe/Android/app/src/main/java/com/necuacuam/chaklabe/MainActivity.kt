@@ -6,7 +6,6 @@ import androidx.activity.compose.setContent
 import androidx.compose.runtime.LaunchedEffect
 import androidx.lifecycle.viewmodel.compose.viewModel
 import androidx.navigation.compose.rememberNavController
-import com.necuacuam.chaklabe.ui.ChaKlaBeMainScreen
 import com.necuacuam.chaklabe.ui.ChaKlaBeNavGraph
 import com.necuacuam.chaklabe.viewmodel.ChaKlaBeViewModel
 import com.necuacuam.chaklabe.ui.theme.ChaKlaBeTheme

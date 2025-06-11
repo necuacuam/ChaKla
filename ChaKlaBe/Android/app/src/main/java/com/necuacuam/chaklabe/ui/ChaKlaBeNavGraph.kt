@@ -1,12 +1,11 @@
-// ChaKlaBeNavGraph.kt
 package com.necuacuam.chaklabe.ui
 
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.platform.LocalContext
 import androidx.navigation.*
 import androidx.navigation.compose.*
+import com.necuacuam.chaklabe.ui.config.ConfigScreen
 import com.necuacuam.chaklabe.viewmodel.ChaKlaBeViewModel
-import com.necuacuam.chaklali.ui.screens.config.ConfigScreen
 
 @Composable
 fun ChaKlaBeNavGraph(
