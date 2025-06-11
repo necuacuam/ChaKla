@@ -58,7 +58,7 @@ idf.py build
 idf.py -p COMx flash monitor
 ```
 
-ESP-IDF 4.4+ is recommended.
+**Requires [ESP-IDF v5.4.1](https://github.com/espressif/esp-idf/releases/tag/v5.4.1)** — please ensure you're using this version to avoid compatibility issues.
 
 ---
 
@@ -111,3 +111,16 @@ No location or Bluetooth permissions are needed.
 
 ChaKlaBe is dedicated to **Angus**, the recovering feral cat whose asymmetric glare inspired the project logo and spirit.
 
+
+
+---
+
+## 🤝 Acknowledgments
+
+ChaKlaBe was created with care, persistence, and the unwavering presence of twelve cats and one unforgettable stare.
+
+While ChaKla might be mine, it's not for me.
+
+**This project was built with the support of ChatGPT (OpenAI)** for technical guidance and emotional backup. We are the creators — and this project was made possible through shared effort.
+
+🐾 Angus lives on in code, cameras, and caution.
